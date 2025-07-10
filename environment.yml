@@ -1,0 +1,13 @@
+name: tilde-cpu
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.11.9
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformer-lens==1.9
+  - streamlit
+  - plotly
+  - pandas 
