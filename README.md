@@ -12,10 +12,10 @@
 
 This repository introduces the first quantitative metric linking SAE features to energy gradients, enabling:
 
-- ** Unified Energy Scoring**: Automatic saliency ranking for SAE features
-- ** Topological Mapping**: Systematic identification of concept basins and attractor dynamics  
-- ** Intervention Paradigm**: Single-feature patches that redirect model attractors
-- ** Mechanistic Insights**: Energy-feature alignment reveals causal circuits
+- **Unified Energy Scoring**: Automatic saliency ranking for SAE features
+- **Topological Mapping**: Systematic identification of concept basins and attractor dynamics  
+- **Intervention Paradigm**: Single-feature patches that redirect model attractors
+- **Mechanistic Insights**: Energy-feature alignment reveals causal circuits
 
 ## Key Results
 
