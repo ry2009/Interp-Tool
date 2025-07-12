@@ -6,25 +6,25 @@
 
 > **Novel interpretability framework bridging Energy-Based Transformers with Sparse Autoencoder feature spaces**
 
-## 🔬 Research Contribution
+## Research Contribution
 
 **Energy-Feature Alignment Score (EFAS)** = corr(feature_activation, -∂E/∂x)
 
 This repository introduces the first quantitative metric linking SAE features to energy gradients, enabling:
 
-- **🎯 Unified Energy Scoring**: Automatic saliency ranking for SAE features
-- **🗺️ Topological Mapping**: Systematic identification of concept basins and attractor dynamics  
-- **⚡ Intervention Paradigm**: Single-feature patches that redirect model attractors
-- **🔍 Mechanistic Insights**: Energy-feature alignment reveals causal circuits
+- ** Unified Energy Scoring**: Automatic saliency ranking for SAE features
+- ** Topological Mapping**: Systematic identification of concept basins and attractor dynamics  
+- ** Intervention Paradigm**: Single-feature patches that redirect model attractors
+- ** Mechanistic Insights**: Energy-feature alignment reveals causal circuits
 
-## 🚀 Key Results
+## Key Results
 
 - **496 energy-feature alignments** discovered across diverse text types
 - **Maximum EFAS score**: 0.8559 (strong correlation between features and energy gradients)
 - **Attractor topology**: Clear separation of regex (7 features), word (272 features), and number (12 features) processing circuits
 - **Measurable interventions**: Up to 0.67 energy units attractor shift per feature modification
 
-## 📊 Framework Overview
+## Framework Overview
 
 ```python
 from energy_lens import EnergyLensAnalyzer, EnergyLensConfig
@@ -49,7 +49,7 @@ results = analyzer.run_comprehensive_analysis({
 analyzer.generate_research_report(results, "energy_lens_report.md")
 ```
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # Clone repository
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 python energy_lens_minimal.py
 ```
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 energy-lens/
@@ -84,7 +84,7 @@ energy-lens/
     └── test_energy_lens.py     # Framework validation
 ```
 
-## 🔬 Methodology
+## Methodology
 
 ### Energy Computation
 - **HAMUX-ET simulation**: Sparse attention energy modeling
@@ -104,7 +104,7 @@ energy-lens/
 - **Statistical significance**: Only alignments with |EFAS| > 0.1 reported
 - **Intervention simulation**: Attractor shift prediction via feature clamping
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 | Metric | Value | Description |
 |--------|-------|-------------|
@@ -115,7 +115,7 @@ energy-lens/
 | **Runtime** | <30 min | Complete analysis on M2 MacBook Air |
 | **Memory Usage** | <6GB | CPU-only implementation |
 
-## 🎯 Applications
+## Applications
 
 ### Interpretability Research
 - **Feature importance ranking**: EFAS provides automatic saliency scores
@@ -132,7 +132,7 @@ energy-lens/
 - **Training optimization**: Feature-energy alignment guides objective design
 - **Debugging**: Attractor topology identifies problematic circuits
 
-## 🔍 Validation
+## Validation
 
 ### Statistical Rigor
 - **Multiple text types**: Regex, code, natural language, mathematical content
@@ -146,7 +146,7 @@ energy-lens/
 - **Memory efficient**: Suitable for large-scale studies
 - **Parallelizable**: Framework supports distributed analysis
 
-## 📚 Citation
+## Citation
 
 ```bibtex
 @article{mathieu2025energylens,
@@ -157,32 +157,8 @@ energy-lens/
 }
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [contributing guidelines](CONTRIBUTING.md) for details.
-
-### Research Collaborations
-- **Tilde Research**: Interested in SAE-based interpretability extensions
-- **Mechanistic Interpretability**: Open to collaborations on energy-based analysis
-- **Safety Research**: Applications to alignment and robustness studies
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **Tilde Research**: Inspiration from SAE interpretability work
-- **TransformerLens**: Framework for transformer analysis
-- **Anthropic**: Mechanistic interpretability research foundations
-
-## 📞 Contact
-
-**Ryan Mathieu**  
-📧 Email: [your.email@domain.com]  
-🐦 Twitter: [@yourusername]  
-🔗 LinkedIn: [linkedin.com/in/yourusername]
-
----
-
-*"Bridging energy landscapes with sparse representations to unlock transformer interpretability"*
