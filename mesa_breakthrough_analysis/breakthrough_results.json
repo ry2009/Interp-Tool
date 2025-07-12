@@ -1,0 +1,29 @@
+{
+  "efficiency_metrics": {
+    "theoretical_speedup": 8.0,
+    "routing_complexity": 8192,
+    "attention_complexity": 65536,
+    "routing_efficiency": 0.7807616532285973,
+    "average_routing_entropy": 0.7598222096761068
+  },
+  "breakthrough_metrics": {
+    "energy_routing_correlations": [
+      -0.44151055812835693,
+      0.44641974568367004,
+      0.159505695104599,
+      0.42617368698120117,
+      -0.4007249176502228,
+      0.0848463848233223
+    ],
+    "average_energy_effect": 0.04578500613570213,
+    "energy_guidance_strength": 0.32653016472856206,
+    "energy_consistency": 0.35507980521833055,
+    "interpretability_score": 0.32653016472856206
+  },
+  "model_config": {
+    "d_model": 768,
+    "num_anchors": 32,
+    "n_layers": 6,
+    "sequence_length": 256
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "energy_routing_correlation": 0.5382873483747244,
+  "routing_efficiency": 0.3697497919260517,
+  "specialization_strength": 0.8791883805394173,
+  "final_perplexity": 104.45964153843357,
+  "training_epochs": 5,
+  "improvements": {
+    "energy_correlation_improvement": 16.3117378295371,
+    "routing_efficiency_improvement": 28.44229168661936
+  }
+}

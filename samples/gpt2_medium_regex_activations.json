@@ -1,0 +1,2489 @@
+[
+  {
+    "text": "The regex pattern [a-z]+ matches lowercase letters",
+    "model": "gpt2-medium",
+    "num_tokens": 13,
+    "tokens": [
+      "<|endoftext|>",
+      "The",
+      " regex",
+      " pattern",
+      " [",
+      "a",
+      "-",
+      "z",
+      "]+",
+      " matches",
+      " lower",
+      "case",
+      " letters"
+    ],
+    "layer_activations": [
+      {
+        "layer": 0,
+        "mean_activation": -1.0029627794949647e-08,
+        "std_activation": 4.055840015411377,
+        "max_activation": 49.24233627319336,
+        "min_activation": -123.56897735595703,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 1,
+        "mean_activation": -5.7312159462696854e-09,
+        "std_activation": 4.326125144958496,
+        "max_activation": 43.110870361328125,
+        "min_activation": -138.83505249023438,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 2,
+        "mean_activation": 8.596824363493738e-10,
+        "std_activation": 5.928951263427734,
+        "max_activation": 41.179656982421875,
+        "min_activation": -418.286376953125,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 3,
+        "mean_activation": -4.470348358154297e-08,
+        "std_activation": 30.216365814208984,
+        "max_activation": 43.344154357910156,
+        "min_activation": -3384.441650390625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 4,
+        "mean_activation": -7.679829394646731e-08,
+        "std_activation": 31.21183204650879,
+        "max_activation": 42.9398193359375,
+        "min_activation": -3474.547119140625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 5,
+        "mean_activation": -2.2638303676103533e-08,
+        "std_activation": 32.687469482421875,
+        "max_activation": 42.38335037231445,
+        "min_activation": -3637.753173828125,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 6,
+        "mean_activation": -4.814221554738651e-08,
+        "std_activation": 33.538604736328125,
+        "max_activation": 41.68082809448242,
+        "min_activation": -3729.21435546875,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 7,
+        "mean_activation": 1.2035553886846628e-08,
+        "std_activation": 34.034976959228516,
+        "max_activation": 40.602237701416016,
+        "min_activation": -3782.993896484375,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 8,
+        "mean_activation": -1.404147909056519e-08,
+        "std_activation": 34.34726333618164,
+        "max_activation": 40.08033752441406,
+        "min_activation": -3814.4736328125,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 9,
+        "mean_activation": -1.604740518246217e-08,
+        "std_activation": 34.43634796142578,
+        "max_activation": 39.56520462036133,
+        "min_activation": -3822.88916015625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 10,
+        "mean_activation": -8.596823697359923e-09,
+        "std_activation": 34.53519058227539,
+        "max_activation": 39.279415130615234,
+        "min_activation": -3829.646484375,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 11,
+        "mean_activation": 4.2984119374978036e-08,
+        "std_activation": 34.586483001708984,
+        "max_activation": 43.16514587402344,
+        "min_activation": -3830.633056640625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 12,
+        "mean_activation": 1.1462431892539371e-08,
+        "std_activation": 34.6400146484375,
+        "max_activation": 54.21816635131836,
+        "min_activation": -3831.063720703125,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 13,
+        "mean_activation": 2.120549957851381e-08,
+        "std_activation": 34.70982360839844,
+        "max_activation": 68.50202941894531,
+        "min_activation": -3832.56640625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 14,
+        "mean_activation": 4.470348358154297e-08,
+        "std_activation": 34.791595458984375,
+        "max_activation": 84.47944641113281,
+        "min_activation": -3833.459228515625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 15,
+        "mean_activation": 3.8685708858565704e-08,
+        "std_activation": 34.905338287353516,
+        "max_activation": 98.7541275024414,
+        "min_activation": -3835.19091796875,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 16,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 35.012447357177734,
+        "max_activation": 111.35742950439453,
+        "min_activation": -3833.69775390625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 17,
+        "mean_activation": 3.667978276666872e-08,
+        "std_activation": 35.15760040283203,
+        "max_activation": 143.56301879882812,
+        "min_activation": -3830.457275390625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 18,
+        "mean_activation": 4.18378789390772e-08,
+        "std_activation": 35.29218292236328,
+        "max_activation": 178.69346618652344,
+        "min_activation": -3818.9130859375,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 19,
+        "mean_activation": 2.6936715968872704e-08,
+        "std_activation": 35.42545700073242,
+        "max_activation": 231.53366088867188,
+        "min_activation": -3793.802001953125,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 20,
+        "mean_activation": 3.954539096184817e-08,
+        "std_activation": 35.60643768310547,
+        "max_activation": 291.4891662597656,
+        "min_activation": -3753.355712890625,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 21,
+        "mean_activation": -3.667978276666872e-08,
+        "std_activation": 36.151798248291016,
+        "max_activation": 375.08978271484375,
+        "min_activation": -3689.741943359375,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 22,
+        "mean_activation": 2.4071107773693257e-08,
+        "std_activation": 27.149810791015625,
+        "max_activation": 544.004638671875,
+        "min_activation": -1908.22607421875,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      },
+      {
+        "layer": 23,
+        "mean_activation": 1.2608674992975466e-08,
+        "std_activation": 25.454261779785156,
+        "max_activation": 624.9215698242188,
+        "min_activation": -482.7995300292969,
+        "shape": [
+          1,
+          13,
+          1024
+        ]
+      }
+    ],
+    "attention_patterns": [
+      {
+        "layer": 0,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 1.363175630569458
+      },
+      {
+        "layer": 1,
+        "mean_attention": 0.07692308723926544,
+        "max_attention": 1.0,
+        "attention_entropy": 1.306897759437561
+      },
+      {
+        "layer": 2,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 1.373828649520874
+      },
+      {
+        "layer": 3,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 1.1840819120407104
+      },
+      {
+        "layer": 4,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.951469898223877
+      },
+      {
+        "layer": 5,
+        "mean_attention": 0.07692307233810425,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8421874046325684
+      },
+      {
+        "layer": 6,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5268006920814514
+      },
+      {
+        "layer": 7,
+        "mean_attention": 0.07692307233810425,
+        "max_attention": 1.0,
+        "attention_entropy": 0.571347177028656
+      },
+      {
+        "layer": 8,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.798035740852356
+      },
+      {
+        "layer": 9,
+        "mean_attention": 0.07692308723926544,
+        "max_attention": 1.0,
+        "attention_entropy": 0.48382195830345154
+      },
+      {
+        "layer": 10,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.651620090007782
+      },
+      {
+        "layer": 11,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6560854315757751
+      },
+      {
+        "layer": 12,
+        "mean_attention": 0.07692307233810425,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5850411653518677
+      },
+      {
+        "layer": 13,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7383666038513184
+      },
+      {
+        "layer": 14,
+        "mean_attention": 0.07692308723926544,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6078000664710999
+      },
+      {
+        "layer": 15,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7505902647972107
+      },
+      {
+        "layer": 16,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5497191548347473
+      },
+      {
+        "layer": 17,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6654064655303955
+      },
+      {
+        "layer": 18,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5256860852241516
+      },
+      {
+        "layer": 19,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.46778762340545654
+      },
+      {
+        "layer": 20,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.4229854941368103
+      },
+      {
+        "layer": 21,
+        "mean_attention": 0.07692307233810425,
+        "max_attention": 1.0,
+        "attention_entropy": 0.531957745552063
+      },
+      {
+        "layer": 22,
+        "mean_attention": 0.07692307978868484,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5555346012115479
+      },
+      {
+        "layer": 23,
+        "mean_attention": 0.07692307233810425,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8486750721931458
+      }
+    ],
+    "final_logits_shape": [
+      1,
+      13,
+      50257
+    ],
+    "top_predicted_tokens": [
+      {
+        "token": " and",
+        "logit": 17.90839385986328,
+        "probability": 0.19224156439304352
+      },
+      {
+        "token": ",",
+        "logit": 17.74934959411621,
+        "probability": 0.1639740914106369
+      },
+      {
+        "token": ".",
+        "logit": 17.463951110839844,
+        "probability": 0.12326172739267349
+      },
+      {
+        "token": " in",
+        "logit": 16.84897232055664,
+        "probability": 0.06664174050092697
+      },
+      {
+        "token": " (",
+        "logit": 16.38373565673828,
+        "probability": 0.04185011237859726
+      }
+    ],
+    "case_id": 1,
+    "contains_regex": true
+  },
+  {
+    "text": "Write a regular expression to match email addresses like user@domain.com",
+    "model": "gpt2-medium",
+    "num_tokens": 15,
+    "tokens": [
+      "<|endoftext|>",
+      "Write",
+      " a",
+      " regular",
+      " expression",
+      " to",
+      " match",
+      " email",
+      " addresses",
+      " like",
+      " user",
+      "@",
+      "domain",
+      ".",
+      "com"
+    ],
+    "layer_activations": [
+      {
+        "layer": 0,
+        "mean_activation": -5.960465010446114e-09,
+        "std_activation": 3.7597103118896484,
+        "max_activation": 49.24233627319336,
+        "min_activation": -123.56897735595703,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 1,
+        "mean_activation": 1.0430813546236095e-08,
+        "std_activation": 4.049870491027832,
+        "max_activation": 43.110870361328125,
+        "min_activation": -138.83505249023438,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 2,
+        "mean_activation": 1.7881394143159923e-08,
+        "std_activation": 5.556066036224365,
+        "max_activation": 41.179656982421875,
+        "min_activation": -418.286376953125,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 3,
+        "mean_activation": -2.7318796114172983e-08,
+        "std_activation": 28.134763717651367,
+        "max_activation": 43.344154357910156,
+        "min_activation": -3384.441650390625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 4,
+        "mean_activation": -6.034970567725395e-08,
+        "std_activation": 29.064903259277344,
+        "max_activation": 42.9398193359375,
+        "min_activation": -3474.547119140625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 5,
+        "mean_activation": -3.1292440638708285e-08,
+        "std_activation": 30.44278335571289,
+        "max_activation": 42.38335037231445,
+        "min_activation": -3637.753173828125,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 6,
+        "mean_activation": -1.9868215517249155e-08,
+        "std_activation": 31.233728408813477,
+        "max_activation": 41.68082809448242,
+        "min_activation": -3729.21435546875,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 7,
+        "mean_activation": -9.934107980669182e-10,
+        "std_activation": 31.703767776489258,
+        "max_activation": 40.602237701416016,
+        "min_activation": -3782.993896484375,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 8,
+        "mean_activation": -1.1920930020892229e-08,
+        "std_activation": 31.983901977539062,
+        "max_activation": 40.08033752441406,
+        "min_activation": -3814.4736328125,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 9,
+        "mean_activation": 6.95387569749073e-09,
+        "std_activation": 32.072547912597656,
+        "max_activation": 39.56520462036133,
+        "min_activation": -3822.88916015625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 10,
+        "mean_activation": -3.278255533700758e-08,
+        "std_activation": 32.15873718261719,
+        "max_activation": 39.279415130615234,
+        "min_activation": -3829.646484375,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 11,
+        "mean_activation": 1.7881394143159923e-08,
+        "std_activation": 32.201148986816406,
+        "max_activation": 43.16514587402344,
+        "min_activation": -3830.633056640625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 12,
+        "mean_activation": 9.934107758624577e-09,
+        "std_activation": 32.250118255615234,
+        "max_activation": 54.21816635131836,
+        "min_activation": -3831.063720703125,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 13,
+        "mean_activation": -1.0927518445669193e-08,
+        "std_activation": 32.31850814819336,
+        "max_activation": 68.50202941894531,
+        "min_activation": -3832.56640625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 14,
+        "mean_activation": -2.4835269840650653e-08,
+        "std_activation": 32.406768798828125,
+        "max_activation": 84.47944641113281,
+        "min_activation": -3833.459228515625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 15,
+        "mean_activation": 0.0,
+        "std_activation": 32.52606964111328,
+        "max_activation": 98.7541275024414,
+        "min_activation": -3835.19091796875,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 16,
+        "mean_activation": 6.95387569749073e-09,
+        "std_activation": 32.65620040893555,
+        "max_activation": 111.35742950439453,
+        "min_activation": -3833.69775390625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 17,
+        "mean_activation": 2.086162709247219e-08,
+        "std_activation": 32.78542709350586,
+        "max_activation": 125.40860748291016,
+        "min_activation": -3830.457275390625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 18,
+        "mean_activation": 3.1789145538141383e-08,
+        "std_activation": 32.966514587402344,
+        "max_activation": 149.62518310546875,
+        "min_activation": -3818.9130859375,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 19,
+        "mean_activation": -8.940697071579962e-09,
+        "std_activation": 33.14341354370117,
+        "max_activation": 181.25906372070312,
+        "min_activation": -3793.802001953125,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 20,
+        "mean_activation": 1.0927518445669193e-08,
+        "std_activation": 33.40117645263672,
+        "max_activation": 211.05923461914062,
+        "min_activation": -3753.355712890625,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 21,
+        "mean_activation": 1.390775139498146e-08,
+        "std_activation": 34.205482482910156,
+        "max_activation": 305.43487548828125,
+        "min_activation": -3689.741943359375,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 22,
+        "mean_activation": 3.973643192267673e-09,
+        "std_activation": 26.511226654052734,
+        "max_activation": 430.1618347167969,
+        "min_activation": -1908.22607421875,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      },
+      {
+        "layer": 23,
+        "mean_activation": 2.8808912588829116e-08,
+        "std_activation": 25.836673736572266,
+        "max_activation": 524.9041137695312,
+        "min_activation": -491.3710632324219,
+        "shape": [
+          1,
+          15,
+          1024
+        ]
+      }
+    ],
+    "attention_patterns": [
+      {
+        "layer": 0,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 1.4570540189743042
+      },
+      {
+        "layer": 1,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 1.3798472881317139
+      },
+      {
+        "layer": 2,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 1.444292426109314
+      },
+      {
+        "layer": 3,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 1.262830138206482
+      },
+      {
+        "layer": 4,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 1.0236973762512207
+      },
+      {
+        "layer": 5,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8362964391708374
+      },
+      {
+        "layer": 6,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5311407446861267
+      },
+      {
+        "layer": 7,
+        "mean_attention": 0.06666666269302368,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5538524985313416
+      },
+      {
+        "layer": 8,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7923585772514343
+      },
+      {
+        "layer": 9,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5409629940986633
+      },
+      {
+        "layer": 10,
+        "mean_attention": 0.06666666269302368,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7019695043563843
+      },
+      {
+        "layer": 11,
+        "mean_attention": 0.06666666269302368,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6883504986763
+      },
+      {
+        "layer": 12,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5161769390106201
+      },
+      {
+        "layer": 13,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7040045261383057
+      },
+      {
+        "layer": 14,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6322076916694641
+      },
+      {
+        "layer": 15,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7430709004402161
+      },
+      {
+        "layer": 16,
+        "mean_attention": 0.06666666269302368,
+        "max_attention": 1.0,
+        "attention_entropy": 0.561319887638092
+      },
+      {
+        "layer": 17,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5923338532447815
+      },
+      {
+        "layer": 18,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.49742966890335083
+      },
+      {
+        "layer": 19,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.4625377357006073
+      },
+      {
+        "layer": 20,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.44162794947624207
+      },
+      {
+        "layer": 21,
+        "mean_attention": 0.06666666269302368,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5196505784988403
+      },
+      {
+        "layer": 22,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.686653733253479
+      },
+      {
+        "layer": 23,
+        "mean_attention": 0.06666667014360428,
+        "max_attention": 1.0,
+        "attention_entropy": 0.923547089099884
+      }
+    ],
+    "final_logits_shape": [
+      1,
+      15,
+      50257
+    ],
+    "top_predicted_tokens": [
+      {
+        "token": "\n",
+        "logit": 15.777483940124512,
+        "probability": 0.24192292988300323
+      },
+      {
+        "token": ".",
+        "logit": 15.333211898803711,
+        "probability": 0.15514299273490906
+      },
+      {
+        "token": " .",
+        "logit": 14.921272277832031,
+        "probability": 0.1027611717581749
+      },
+      {
+        "token": " or",
+        "logit": 14.884279251098633,
+        "probability": 0.09902917593717575
+      },
+      {
+        "token": ",",
+        "logit": 14.582138061523438,
+        "probability": 0.07320570200681686
+      }
+    ],
+    "case_id": 2,
+    "contains_regex": false
+  },
+  {
+    "text": "Simple text without any regex patterns here",
+    "model": "gpt2-medium",
+    "num_tokens": 8,
+    "tokens": [
+      "<|endoftext|>",
+      "Simple",
+      " text",
+      " without",
+      " any",
+      " regex",
+      " patterns",
+      " here"
+    ],
+    "layer_activations": [
+      {
+        "layer": 0,
+        "mean_activation": 3.725290298461914e-09,
+        "std_activation": 4.188937187194824,
+        "max_activation": 49.242332458496094,
+        "min_activation": -123.56896209716797,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 1,
+        "mean_activation": -1.4901161193847656e-08,
+        "std_activation": 4.495162010192871,
+        "max_activation": 43.11086654663086,
+        "min_activation": -138.8350372314453,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 2,
+        "mean_activation": 7.450580596923828e-09,
+        "std_activation": 6.794404029846191,
+        "max_activation": 41.17965316772461,
+        "min_activation": -418.28631591796875,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 3,
+        "mean_activation": -5.960464477539063e-08,
+        "std_activation": 38.369041442871094,
+        "max_activation": 43.34415054321289,
+        "min_activation": -3384.44140625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 4,
+        "mean_activation": -5.960464477539063e-08,
+        "std_activation": 39.628211975097656,
+        "max_activation": 42.939815521240234,
+        "min_activation": -3474.547119140625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 5,
+        "mean_activation": -5.960464477539063e-08,
+        "std_activation": 41.48536682128906,
+        "max_activation": 42.38334655761719,
+        "min_activation": -3637.753173828125,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 6,
+        "mean_activation": -8.940696716308594e-08,
+        "std_activation": 42.550907135009766,
+        "max_activation": 41.68082046508789,
+        "min_activation": -3729.21435546875,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 7,
+        "mean_activation": 0.0,
+        "std_activation": 43.16267013549805,
+        "max_activation": 40.602230072021484,
+        "min_activation": -3782.993896484375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 8,
+        "mean_activation": 0.0,
+        "std_activation": 43.51663589477539,
+        "max_activation": 40.08032989501953,
+        "min_activation": -3814.4736328125,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 9,
+        "mean_activation": 0.0,
+        "std_activation": 43.63041305541992,
+        "max_activation": 39.5651969909668,
+        "min_activation": -3822.88916015625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 10,
+        "mean_activation": -2.9802322387695312e-08,
+        "std_activation": 43.7291374206543,
+        "max_activation": 39.27941131591797,
+        "min_activation": -3829.646484375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 11,
+        "mean_activation": -8.940696716308594e-08,
+        "std_activation": 43.767486572265625,
+        "max_activation": 44.48075866699219,
+        "min_activation": -3830.633056640625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 12,
+        "mean_activation": 0.0,
+        "std_activation": 43.81364822387695,
+        "max_activation": 54.21815872192383,
+        "min_activation": -3831.063720703125,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 13,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 43.8873291015625,
+        "max_activation": 68.50202178955078,
+        "min_activation": -3832.56640625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 14,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 43.96820068359375,
+        "max_activation": 84.47943878173828,
+        "min_activation": -3833.459228515625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 15,
+        "mean_activation": 0.0,
+        "std_activation": 44.077640533447266,
+        "max_activation": 98.75411987304688,
+        "min_activation": -3835.19091796875,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 16,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 44.171775817871094,
+        "max_activation": 111.357421875,
+        "min_activation": -3833.69775390625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 17,
+        "mean_activation": 0.0,
+        "std_activation": 44.309043884277344,
+        "max_activation": 129.18898010253906,
+        "min_activation": -3830.457275390625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 18,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 44.419471740722656,
+        "max_activation": 158.17947387695312,
+        "min_activation": -3818.9130859375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 19,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 44.5111083984375,
+        "max_activation": 203.97225952148438,
+        "min_activation": -3793.802001953125,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 20,
+        "mean_activation": 0.0,
+        "std_activation": 44.57488250732422,
+        "max_activation": 258.5848388671875,
+        "min_activation": -3753.355712890625,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 21,
+        "mean_activation": 1.4901161193847656e-07,
+        "std_activation": 44.89072799682617,
+        "max_activation": 321.8897399902344,
+        "min_activation": -3689.741943359375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 22,
+        "mean_activation": 8.940696716308594e-08,
+        "std_activation": 31.171533584594727,
+        "max_activation": 466.6235046386719,
+        "min_activation": -1908.226318359375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      },
+      {
+        "layer": 23,
+        "mean_activation": 5.960464477539063e-08,
+        "std_activation": 25.84641456604004,
+        "max_activation": 549.612548828125,
+        "min_activation": -408.70892333984375,
+        "shape": [
+          1,
+          8,
+          1024
+        ]
+      }
+    ],
+    "attention_patterns": [
+      {
+        "layer": 0,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.9819668531417847
+      },
+      {
+        "layer": 1,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8904297947883606
+      },
+      {
+        "layer": 2,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 1.0125131607055664
+      },
+      {
+        "layer": 3,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8917011022567749
+      },
+      {
+        "layer": 4,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7240428924560547
+      },
+      {
+        "layer": 5,
+        "mean_attention": 0.1250000149011612,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5836436152458191
+      },
+      {
+        "layer": 6,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.3502931594848633
+      },
+      {
+        "layer": 7,
+        "mean_attention": 0.1249999925494194,
+        "max_attention": 1.0,
+        "attention_entropy": 0.42555439472198486
+      },
+      {
+        "layer": 8,
+        "mean_attention": 0.1249999925494194,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6210641860961914
+      },
+      {
+        "layer": 9,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.47077086567878723
+      },
+      {
+        "layer": 10,
+        "mean_attention": 0.1249999925494194,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5554903745651245
+      },
+      {
+        "layer": 11,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5035326480865479
+      },
+      {
+        "layer": 12,
+        "mean_attention": 0.1249999925494194,
+        "max_attention": 1.0,
+        "attention_entropy": 0.44188448786735535
+      },
+      {
+        "layer": 13,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.5695451498031616
+      },
+      {
+        "layer": 14,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.41842731833457947
+      },
+      {
+        "layer": 15,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.49289342761039734
+      },
+      {
+        "layer": 16,
+        "mean_attention": 0.1249999925494194,
+        "max_attention": 1.0,
+        "attention_entropy": 0.39778754115104675
+      },
+      {
+        "layer": 17,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.38578134775161743
+      },
+      {
+        "layer": 18,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.3867630958557129
+      },
+      {
+        "layer": 19,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.3350515365600586
+      },
+      {
+        "layer": 20,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.2879429757595062
+      },
+      {
+        "layer": 21,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.3363168239593506
+      },
+      {
+        "layer": 22,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.4244322180747986
+      },
+      {
+        "layer": 23,
+        "mean_attention": 0.125,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6280757784843445
+      }
+    ],
+    "final_logits_shape": [
+      1,
+      8,
+      50257
+    ],
+    "top_predicted_tokens": [
+      {
+        "token": ".",
+        "logit": 15.891606330871582,
+        "probability": 0.39780333638191223
+      },
+      {
+        "token": "!",
+        "logit": 14.962783813476562,
+        "probability": 0.15713970363140106
+      },
+      {
+        "token": ",",
+        "logit": 14.60328483581543,
+        "probability": 0.10968760401010513
+      },
+      {
+        "token": ":",
+        "logit": 13.947214126586914,
+        "probability": 0.05691537633538246
+      },
+      {
+        "token": "\n",
+        "logit": 13.86190414428711,
+        "probability": 0.052261270582675934
+      }
+    ],
+    "case_id": 3,
+    "contains_regex": false
+  },
+  {
+    "text": "Pattern: ^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\\.[A-Z|a-z]{2,}$ for emails",
+    "model": "gpt2-medium",
+    "num_tokens": 49,
+    "tokens": [
+      "<|endoftext|>",
+      "Pattern",
+      ":",
+      " ^",
+      "[",
+      "A",
+      "-",
+      "Z",
+      "a",
+      "-",
+      "z",
+      "0",
+      "-",
+      "9",
+      "._",
+      "%",
+      "+",
+      "-",
+      "]+",
+      "@",
+      "[",
+      "A",
+      "-",
+      "Z",
+      "a",
+      "-",
+      "z",
+      "0",
+      "-",
+      "9",
+      ".-",
+      "]+",
+      "\\",
+      ".[",
+      "A",
+      "-",
+      "Z",
+      "|",
+      "a",
+      "-",
+      "z",
+      "]",
+      "{",
+      "2",
+      ",",
+      "}",
+      "$",
+      " for",
+      " emails"
+    ],
+    "layer_activations": [
+      {
+        "layer": 0,
+        "mean_activation": -4.789658891724002e-09,
+        "std_activation": 3.5512664318084717,
+        "max_activation": 49.24230194091797,
+        "min_activation": -123.56898498535156,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 1,
+        "mean_activation": -2.2807900013077642e-09,
+        "std_activation": 3.9633078575134277,
+        "max_activation": 43.110862731933594,
+        "min_activation": -138.83505249023438,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 2,
+        "mean_activation": -8.13481726424925e-09,
+        "std_activation": 4.558594703674316,
+        "max_activation": 43.95198440551758,
+        "min_activation": -418.28680419921875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 3,
+        "mean_activation": -9.65534425745318e-08,
+        "std_activation": 15.955862045288086,
+        "max_activation": 44.16926574707031,
+        "min_activation": -3384.445068359375,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 4,
+        "mean_activation": -8.005572738056799e-08,
+        "std_activation": 16.489219665527344,
+        "max_activation": 43.6723518371582,
+        "min_activation": -3474.550537109375,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 5,
+        "mean_activation": -8.142419716250515e-08,
+        "std_activation": 17.29996109008789,
+        "max_activation": 42.8884391784668,
+        "min_activation": -3637.75634765625,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 6,
+        "mean_activation": -8.712617471928752e-08,
+        "std_activation": 17.812021255493164,
+        "max_activation": 42.361473083496094,
+        "min_activation": -3729.217529296875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 7,
+        "mean_activation": -8.400909479178154e-08,
+        "std_activation": 18.10810661315918,
+        "max_activation": 41.000526428222656,
+        "min_activation": -3782.9970703125,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 8,
+        "mean_activation": -8.872272871940368e-08,
+        "std_activation": 18.36700439453125,
+        "max_activation": 40.282928466796875,
+        "min_activation": -3814.476806640625,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 9,
+        "mean_activation": -8.860868661031418e-08,
+        "std_activation": 18.442045211791992,
+        "max_activation": 39.56521224975586,
+        "min_activation": -3822.892333984375,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 10,
+        "mean_activation": -9.1687752501457e-08,
+        "std_activation": 18.525577545166016,
+        "max_activation": 39.27942657470703,
+        "min_activation": -3829.649658203125,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 11,
+        "mean_activation": -7.488593922744258e-08,
+        "std_activation": 18.594640731811523,
+        "max_activation": 43.16514205932617,
+        "min_activation": -3830.63623046875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 12,
+        "mean_activation": -5.587935447692871e-08,
+        "std_activation": 18.66959571838379,
+        "max_activation": 54.21816635131836,
+        "min_activation": -3831.06689453125,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 13,
+        "mean_activation": -5.0177376920146344e-08,
+        "std_activation": 18.75187873840332,
+        "max_activation": 68.50202941894531,
+        "min_activation": -3832.569580078125,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 14,
+        "mean_activation": -4.55777851016137e-08,
+        "std_activation": 18.836835861206055,
+        "max_activation": 84.47943115234375,
+        "min_activation": -3833.46240234375,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 15,
+        "mean_activation": -1.6687780046709122e-08,
+        "std_activation": 18.948766708374023,
+        "max_activation": 98.75408172607422,
+        "min_activation": -3835.194091796875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 16,
+        "mean_activation": -4.348706283963111e-08,
+        "std_activation": 19.03373146057129,
+        "max_activation": 111.35737609863281,
+        "min_activation": -3833.700927734375,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 17,
+        "mean_activation": -5.914848699717368e-08,
+        "std_activation": 19.19576072692871,
+        "max_activation": 125.40855407714844,
+        "min_activation": -3830.46044921875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 18,
+        "mean_activation": -4.417129773059969e-08,
+        "std_activation": 19.413604736328125,
+        "max_activation": 143.77976989746094,
+        "min_activation": -3818.916259765625,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 19,
+        "mean_activation": -5.070956277108962e-08,
+        "std_activation": 19.60300064086914,
+        "max_activation": 173.03689575195312,
+        "min_activation": -3793.80517578125,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 20,
+        "mean_activation": -3.2843374242474965e-08,
+        "std_activation": 19.96725845336914,
+        "max_activation": 211.03970336914062,
+        "min_activation": -3753.35888671875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 21,
+        "mean_activation": -3.8013165948314054e-08,
+        "std_activation": 21.39454460144043,
+        "max_activation": 307.92803955078125,
+        "min_activation": -3689.7451171875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 22,
+        "mean_activation": -5.276227454942273e-08,
+        "std_activation": 20.489713668823242,
+        "max_activation": 493.93133544921875,
+        "min_activation": -1908.229248046875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      },
+      {
+        "layer": 23,
+        "mean_activation": -4.1054217803093707e-08,
+        "std_activation": 24.32512092590332,
+        "max_activation": 652.2261352539062,
+        "min_activation": -530.7459716796875,
+        "shape": [
+          1,
+          49,
+          1024
+        ]
+      }
+    ],
+    "attention_patterns": [
+      {
+        "layer": 0,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 2.524512767791748
+      },
+      {
+        "layer": 1,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 2.4571731090545654
+      },
+      {
+        "layer": 2,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 2.188826084136963
+      },
+      {
+        "layer": 3,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.8417636156082153
+      },
+      {
+        "layer": 4,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.6033366918563843
+      },
+      {
+        "layer": 5,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.427276849746704
+      },
+      {
+        "layer": 6,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.0231115818023682
+      },
+      {
+        "layer": 7,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.2224432229995728
+      },
+      {
+        "layer": 8,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.4843475818634033
+      },
+      {
+        "layer": 9,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.122178077697754
+      },
+      {
+        "layer": 10,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.425108551979065
+      },
+      {
+        "layer": 11,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.493119239807129
+      },
+      {
+        "layer": 12,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.021256685256958
+      },
+      {
+        "layer": 13,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.2848668098449707
+      },
+      {
+        "layer": 14,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.009644627571106
+      },
+      {
+        "layer": 15,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.0696924924850464
+      },
+      {
+        "layer": 16,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8361849188804626
+      },
+      {
+        "layer": 17,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.9316790699958801
+      },
+      {
+        "layer": 18,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8784902691841125
+      },
+      {
+        "layer": 19,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.503472626209259
+      },
+      {
+        "layer": 20,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.604437530040741
+      },
+      {
+        "layer": 21,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8165388703346252
+      },
+      {
+        "layer": 22,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8159657716751099
+      },
+      {
+        "layer": 23,
+        "mean_attention": 0.020408162847161293,
+        "max_attention": 1.0,
+        "attention_entropy": 1.2792892456054688
+      }
+    ],
+    "final_logits_shape": [
+      1,
+      49,
+      50257
+    ],
+    "top_predicted_tokens": [
+      {
+        "token": "\n",
+        "logit": 13.344022750854492,
+        "probability": 0.11002682894468307
+      },
+      {
+        "token": " with",
+        "logit": 13.152090072631836,
+        "probability": 0.09081201255321503
+      },
+      {
+        "token": ".",
+        "logit": 13.082595825195312,
+        "probability": 0.08471538871526718
+      },
+      {
+        "token": ",",
+        "logit": 12.847391128540039,
+        "probability": 0.06695981323719025
+      },
+      {
+        "token": " and",
+        "logit": 12.538150787353516,
+        "probability": 0.049148790538311005
+      }
+    ],
+    "case_id": 4,
+    "contains_regex": true
+  },
+  {
+    "text": "The sequence (abc|def)* repeats abc or def zero or more times",
+    "model": "gpt2-medium",
+    "num_tokens": 17,
+    "tokens": [
+      "<|endoftext|>",
+      "The",
+      " sequence",
+      " (",
+      "abc",
+      "|",
+      "def",
+      ")*",
+      " repeats",
+      " ab",
+      "c",
+      " or",
+      " def",
+      " zero",
+      " or",
+      " more",
+      " times"
+    ],
+    "layer_activations": [
+      {
+        "layer": 0,
+        "mean_activation": -3.725290298461914e-09,
+        "std_activation": 3.929729700088501,
+        "max_activation": 49.24230194091797,
+        "min_activation": -123.56898498535156,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 1,
+        "mean_activation": 8.765388970211063e-10,
+        "std_activation": 4.2402262687683105,
+        "max_activation": 43.110862731933594,
+        "min_activation": -138.83505249023438,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 2,
+        "mean_activation": -5.040098560726847e-09,
+        "std_activation": 5.539460182189941,
+        "max_activation": 41.17966079711914,
+        "min_activation": -418.28680419921875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 3,
+        "mean_activation": -2.8312206268310547e-07,
+        "std_activation": 26.500438690185547,
+        "max_activation": 43.34415817260742,
+        "min_activation": -3384.445068359375,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 4,
+        "mean_activation": -2.82355102854126e-07,
+        "std_activation": 27.364500045776367,
+        "max_activation": 42.939823150634766,
+        "min_activation": -3474.550537109375,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 5,
+        "mean_activation": -2.2505136598738318e-07,
+        "std_activation": 28.65821647644043,
+        "max_activation": 42.383358001708984,
+        "min_activation": -3637.75634765625,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 6,
+        "mean_activation": -2.2921491904526192e-07,
+        "std_activation": 29.4175968170166,
+        "max_activation": 41.68083572387695,
+        "min_activation": -3729.217529296875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 7,
+        "mean_activation": -2.2833837931557355e-07,
+        "std_activation": 29.872262954711914,
+        "max_activation": 40.60224533081055,
+        "min_activation": -3782.9970703125,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 8,
+        "mean_activation": -2.5945550419237406e-07,
+        "std_activation": 30.162626266479492,
+        "max_activation": 40.080345153808594,
+        "min_activation": -3814.476806640625,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 9,
+        "mean_activation": -2.526623461562849e-07,
+        "std_activation": 30.25446891784668,
+        "max_activation": 39.56521224975586,
+        "min_activation": -3822.892333984375,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 10,
+        "mean_activation": -2.7676716740643315e-07,
+        "std_activation": 30.3485164642334,
+        "max_activation": 39.27942657470703,
+        "min_activation": -3829.649658203125,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 11,
+        "mean_activation": -2.2702357682646834e-07,
+        "std_activation": 30.404769897460938,
+        "max_activation": 43.16514205932617,
+        "min_activation": -3830.63623046875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 12,
+        "mean_activation": -2.9364053943936597e-07,
+        "std_activation": 30.460805892944336,
+        "max_activation": 54.21816635131836,
+        "min_activation": -3831.06689453125,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 13,
+        "mean_activation": -2.7567148208618164e-07,
+        "std_activation": 30.535053253173828,
+        "max_activation": 68.50202941894531,
+        "min_activation": -3832.569580078125,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 14,
+        "mean_activation": -2.338167490734122e-07,
+        "std_activation": 30.6332950592041,
+        "max_activation": 84.47943115234375,
+        "min_activation": -3833.46240234375,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 15,
+        "mean_activation": -2.546345569953701e-07,
+        "std_activation": 30.75653648376465,
+        "max_activation": 98.75408172607422,
+        "min_activation": -3835.194091796875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 16,
+        "mean_activation": -2.6953571818921773e-07,
+        "std_activation": 30.921430587768555,
+        "max_activation": 111.35737609863281,
+        "min_activation": -3833.700927734375,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 17,
+        "mean_activation": -2.8881956382065255e-07,
+        "std_activation": 31.154855728149414,
+        "max_activation": 143.56304931640625,
+        "min_activation": -3830.46044921875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 18,
+        "mean_activation": -2.5573021389391215e-07,
+        "std_activation": 31.340557098388672,
+        "max_activation": 178.69357299804688,
+        "min_activation": -3818.916259765625,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 19,
+        "mean_activation": -2.6953571818921773e-07,
+        "std_activation": 31.56806182861328,
+        "max_activation": 231.53378295898438,
+        "min_activation": -3793.80517578125,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 20,
+        "mean_activation": -2.2965319601553347e-07,
+        "std_activation": 31.855667114257812,
+        "max_activation": 291.4892578125,
+        "min_activation": -3753.35888671875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 21,
+        "mean_activation": -2.2570876012650842e-07,
+        "std_activation": 32.66349411010742,
+        "max_activation": 375.08984375,
+        "min_activation": -3689.7451171875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 22,
+        "mean_activation": -2.2088779871864972e-07,
+        "std_activation": 26.695022583007812,
+        "max_activation": 544.0046997070312,
+        "min_activation": -1908.229248046875,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      },
+      {
+        "layer": 23,
+        "mean_activation": -1.5120295415727014e-07,
+        "std_activation": 27.438955307006836,
+        "max_activation": 624.921875,
+        "min_activation": -523.9340209960938,
+        "shape": [
+          1,
+          17,
+          1024
+        ]
+      }
+    ],
+    "attention_patterns": [
+      {
+        "layer": 0,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.6093274354934692
+      },
+      {
+        "layer": 1,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.5277849435806274
+      },
+      {
+        "layer": 2,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.5717114210128784
+      },
+      {
+        "layer": 3,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.3291311264038086
+      },
+      {
+        "layer": 4,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.079032063484192
+      },
+      {
+        "layer": 5,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.9147838950157166
+      },
+      {
+        "layer": 6,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6518753170967102
+      },
+      {
+        "layer": 7,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.728405773639679
+      },
+      {
+        "layer": 8,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.9458535313606262
+      },
+      {
+        "layer": 9,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7002134919166565
+      },
+      {
+        "layer": 10,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.868823230266571
+      },
+      {
+        "layer": 11,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8435060381889343
+      },
+      {
+        "layer": 12,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6896156072616577
+      },
+      {
+        "layer": 13,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8538159728050232
+      },
+      {
+        "layer": 14,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7287862300872803
+      },
+      {
+        "layer": 15,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.842205286026001
+      },
+      {
+        "layer": 16,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6987497210502625
+      },
+      {
+        "layer": 17,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.8227940797805786
+      },
+      {
+        "layer": 18,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7179939150810242
+      },
+      {
+        "layer": 19,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6763546466827393
+      },
+      {
+        "layer": 20,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6340315341949463
+      },
+      {
+        "layer": 21,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.6985243558883667
+      },
+      {
+        "layer": 22,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 0.7098367214202881
+      },
+      {
+        "layer": 23,
+        "mean_attention": 0.05882352963089943,
+        "max_attention": 1.0,
+        "attention_entropy": 1.0650495290756226
+      }
+    ],
+    "final_logits_shape": [
+      1,
+      17,
+      50257
+    ],
+    "top_predicted_tokens": [
+      {
+        "token": ".",
+        "logit": 17.464115142822266,
+        "probability": 0.339824914932251
+      },
+      {
+        "token": ",",
+        "logit": 16.750314712524414,
+        "probability": 0.1664392054080963
+      },
+      {
+        "token": " in",
+        "logit": 15.884252548217773,
+        "probability": 0.07000508904457092
+      },
+      {
+        "token": " (",
+        "logit": 15.687034606933594,
+        "probability": 0.05747499316930771
+      },
+      {
+        "token": " for",
+        "logit": 15.207069396972656,
+        "probability": 0.0355658121407032
+      }
+    ],
+    "case_id": 5,
+    "contains_regex": true
+  }
+]

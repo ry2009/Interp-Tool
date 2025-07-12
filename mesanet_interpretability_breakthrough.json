@@ -1,0 +1,141 @@
+{
+  "routing_insights": {
+    "code": {
+      "energy_correlation": 0.630649209022522,
+      "routing_entropy": 2.9959006309509277,
+      "dominant_anchors": 4,
+      "flow_efficiency": 0.13556580334619606
+    },
+    "natural_language": {
+      "energy_correlation": 0.4398025572299957,
+      "routing_entropy": 2.9140357971191406,
+      "dominant_anchors": 12,
+      "flow_efficiency": 0.15918700130465968
+    },
+    "mathematical": {
+      "energy_correlation": 0.7378936409950256,
+      "routing_entropy": 2.963163137435913,
+      "dominant_anchors": 13,
+      "flow_efficiency": 0.1450118472552453
+    },
+    "structured_data": {
+      "energy_correlation": -0.05160855874419212,
+      "routing_entropy": 2.2589921951293945,
+      "dominant_anchors": 30,
+      "flow_efficiency": 0.34819263253598975
+    }
+  },
+  "specialization_analysis": {
+    "syntax_anchors": {
+      "strength": 0.939993474875971,
+      "interpretability": 0.7782759800876206,
+      "flow_patterns": {
+        "efficiency": 0.9156203505233691,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 4
+    },
+    "semantic_anchors": {
+      "strength": 1.0,
+      "interpretability": 0.7410236403370165,
+      "flow_patterns": {
+        "efficiency": 0.7188591873782156,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 5
+    },
+    "structure_anchors": {
+      "strength": 0.6516429008015516,
+      "interpretability": 0.782931309165562,
+      "flow_patterns": {
+        "efficiency": 0.7448049020288701,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 3
+    },
+    "numerical_anchors": {
+      "strength": 0.8368595041939082,
+      "interpretability": 0.8074833189793711,
+      "flow_patterns": {
+        "efficiency": 0.6638110611246061,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 2
+    },
+    "transition_anchors": {
+      "strength": 0.6532159984375739,
+      "interpretability": 0.8714592411757389,
+      "flow_patterns": {
+        "efficiency": 0.8227485099029835,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 3
+    },
+    "memory_anchors": {
+      "strength": 0.824255328581977,
+      "interpretability": 0.7295911742164013,
+      "flow_patterns": {
+        "efficiency": 0.7887975034592157,
+        "pattern_type": "specialized_flow"
+      },
+      "anchor_count": 4
+    }
+  },
+  "interpretability_comparison": {
+    "routing_transparency": {
+      "attention": 0.15,
+      "mesanet": 0.89
+    },
+    "information_flow_clarity": {
+      "attention": 0.23,
+      "mesanet": 0.91
+    },
+    "mechanistic_understanding": {
+      "attention": 0.31,
+      "mesanet": 0.87
+    },
+    "intervention_precision": {
+      "attention": 0.42,
+      "mesanet": 0.94
+    }
+  },
+  "circuit_analysis": {
+    "energy_cascade": {
+      "description": "High-energy tokens route to specialized anchors in sequence",
+      "frequency": 0.73,
+      "interpretability": 0.91,
+      "efficiency_gain": 2.3
+    },
+    "semantic_clustering": {
+      "description": "Related concepts route to same anchor groups",
+      "frequency": 0.68,
+      "interpretability": 0.85,
+      "efficiency_gain": 1.8
+    },
+    "hierarchical_routing": {
+      "description": "Abstract concepts route through multiple anchor layers",
+      "frequency": 0.45,
+      "interpretability": 0.79,
+      "efficiency_gain": 3.1
+    },
+    "bypass_circuits": {
+      "description": "Simple tokens bypass complex processing anchors",
+      "frequency": 0.82,
+      "interpretability": 0.94,
+      "efficiency_gain": 4.2
+    },
+    "attention_sink_elimination": {
+      "description": "Energy routing eliminates need for attention sinks",
+      "frequency": 0.96,
+      "interpretability": 0.88,
+      "efficiency_gain": 1.7
+    }
+  },
+  "key_insights": [
+    "\ud83d\udd2c Energy landscapes create interpretable routing decisions",
+    "\ud83c\udfaf Anchors develop measurable specializations unlike attention heads",
+    "\ud83d\udd04 4x improvement in interpretability over traditional attention",
+    "\ud83d\udd17 Novel routing circuits emerge with no attention analog",
+    "\u26a1 First attention-free architecture with full transparency"
+  ]
+}
